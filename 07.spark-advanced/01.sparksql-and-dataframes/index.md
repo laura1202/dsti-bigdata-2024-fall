@@ -63,8 +63,8 @@ spark.sql("SELECT * FROM table")
 
 ### Resources
 
-[Data is Plural news letter](https://www.data-is-plural.com/)
-[Project based learning](https://projectsbasedlearning.com/category/apache-spark-analytics/)
+[Data is Plural news letter](https://www.data-is-plural.com/)  
+[Project based learning](https://projectsbasedlearning.com/category/apache-spark-analytics/)  
 
 ---
 
