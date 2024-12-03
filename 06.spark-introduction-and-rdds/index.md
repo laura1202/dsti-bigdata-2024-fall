@@ -100,6 +100,10 @@ When an action is run:
 
 ![Transformations](./image/narrow_wide_transformations.png)
 
+### Resources  
+
+- [Learning Spark 2.0](https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf) provided courtesy of Databricks .  
+
 ---
 
 *The content of this document, including all text, images, and associated materials, is the exclusive property of Adaltas and is protected by applicable copyright laws. Unauthorized distribution, reproduction, or sharing of this content, in whole or in part, is strictly prohibited without the express written consent of the author(s). Any violation of this restriction may result in legal action and the imposition of penalties as prescribed by law.*

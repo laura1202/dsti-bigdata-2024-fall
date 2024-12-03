@@ -61,6 +61,11 @@ spark.sql("SELECT * FROM table")
   - Lots of projects
 - But: cannot be used for ML or graph analyses
 
+### Resources
+
+[Data is Plural news letter](https://www.data-is-plural.com/)  
+[Project based learning](https://projectsbasedlearning.com/category/apache-spark-analytics/)  
+
 ---
 
 *The content of this document, including all text, images, and associated materials, is the exclusive property of Adaltas and is protected by applicable copyright laws. Unauthorized distribution, reproduction, or sharing of this content, in whole or in part, is strictly prohibited without the express written consent of the author(s). Any violation of this restriction may result in legal action and the imposition of penalties as prescribed by law.*
