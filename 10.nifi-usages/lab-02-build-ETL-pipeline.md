@@ -2,7 +2,7 @@
 duration: 1h
 ---
 
-# Lab: Introduction to NiF## Objectives
+# Lab: Introduction to NiFi Objectives
 
 - Build an ETL pipeline with the NiFi ui
 
