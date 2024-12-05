@@ -1,10 +1,8 @@
 ---
-duration: \>=1h
+duration: 1h
 ---
 
-# Lab: Introduction to NiFi
-
-## Objectives
+# Lab: Introduction to NiF## Objectives
 
 - Build an ETL pipeline with the NiFi ui
 
